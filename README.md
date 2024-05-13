@@ -1,7 +1,7 @@
 # Hyperblog 💚
 
 Un blog increíble para el curso de Git y Github de Platzi
-[![df](dfv "df")](https://play-lh.googleusercontent.com/4RqG3k2Ouy4WXJAptapdG_AnOGXopn7XCVuiwIAeTBTfVHo3_KXCAdSzzQdCMB_Fzts7=w240-h480-rw "df")
+![](https://play-lh.googleusercontent.com/4RqG3k2Ouy4WXJAptapdG_AnOGXopn7XCVuiwIAeTBTfVHo3_KXCAdSzzQdCMB_Fzts7=w240-h480-rw "hola")
 Mi nombre es carlos daniel padilla 
 
 ------------
